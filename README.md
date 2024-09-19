@@ -2,3 +2,5 @@
 Knowledge Graph RAG for Legal Documentation
 
 Initial Commit
+
+Other random commit
